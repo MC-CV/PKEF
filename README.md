@@ -26,3 +26,17 @@ python PKEF_final.py --data taobao
 ```
 python PKEF_final.py --data tmall --gnn_layer "[4, 1, 1, 1]" --coefficient "[0.0/6, 4.0/6, 0.0/6, 2.0/6]"
 ```
+
+## Citation
+If you want to use our codes and datasets in your research, please cite:
+```
+@article{meng2023parallel,
+  title={Parallel Knowledge Enhancement based Framework for Multi-behavior Recommendation},
+  author={Meng, Chang and Zhai, Chenhao and Yang, Yu and Zhang, Hengyu and Li, Xiu},
+  journal={arXiv preprint arXiv:2308.04807},
+  year={2023}
+}
+```
+
+
+
